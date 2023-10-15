@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+header {
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.874), rgba(0, 0, 0, 0.829)), url(../images/ufabizphoto190201649.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 150px;
+
+}
+
+
+nav {
+    border-bottom: solid 4px rgb(0, 64, 255);
+
+}
+
+header{
+    /* padding-top: 60px; */
+    padding-bottom: 60px;
+}
+ img{
+    width:100%;
+ }
